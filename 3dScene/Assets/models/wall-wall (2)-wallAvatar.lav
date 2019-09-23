@@ -1,0 +1,24 @@
+{
+	"props":{
+		"name":"wall (2)"
+	},
+	"customProps":{
+		"translate":[
+			0,
+			0,
+			-0.6496063
+		],
+		"rotation":[
+			0,
+			0,
+			0,
+			-1
+		],
+		"scale":[
+			1,
+			1,
+			1
+		]
+	},
+	"child":[]
+}

@@ -1,0 +1,142 @@
+D .
+D 3dScene
+R 3B809409 Laya3D01.lh
+R CFE1F4EA Laya3D01.ls
+D comp
+P D12221A9 bg.png
+P 9401CC40 blank.png
+P B03390E5 btn_close.png
+P 1F3929EA button.png
+P 6CC6DF97 checkbox.png
+P FB94CCF2 clip_num.png
+P F7B6B7D7 clip_selectBox.png
+P 755271AE clip_tree_arrow.png
+P 859FD34C clip_tree_folder.png
+P A0E3B8F9 combobox.png
+P 9EDA959E hscroll$bar.png
+P 1AB768D4 hscroll$down.png
+P 685261D3 hscroll$up.png
+P 274B8076 hscroll.png
+P E466EB1C hslider$bar.png
+P C4BECA54 hslider.png
+P 5EDC128C html.png
+P ACFFCCCF image.png
+P 5EDC128C label.png
+P 5EDC128C linkbutton.png
+P 9E4DD730 progress$bar.png
+P 3FD78E12 progress.png
+P BF898D6A radio.png
+P BF898D6A radiogroup.png
+P 8CFD9D35 tab.png
+P BDA71F88 textarea.png
+P BDA71F88 textinput.png
+P 52107B89 vscroll$bar.png
+P E26B933E vscroll$down.png
+P B9680947 vscroll$up.png
+P 7E990267 vscroll.png
+P E466EB1C vslider$bar.png
+P 2BFF7046 vslider.png
+D 3dScene/Assets
+D 3dScene/Library
+R 151FD178 unity default resources-Plane.lm
+D 3dScene/Assets/Laya3D01
+R CDE6AB8B Lightmap-0_comp_light.exr
+R 4D7AF98C Lightmap-0_comp_light.png
+D 3dScene/Assets/Materials
+R D69F98A9 t0200.lmat
+R 23275CC6 t0203.lmat
+R C6501ADB t0210.lmat
+R 9E82E10F t0212.lmat
+R A45D19AB t0214.lmat
+R A5E875F3 t0225.lmat
+R 114E4FEB t0291.lmat
+R DEF13AAD t0297.lmat
+R 20C3A279 t102.lmat
+D 3dScene/Assets/models
+R 72039881 box-box (1)-boxAvatar.lav
+R 8EDE3BB1 box-box (10)-boxAvatar.lav
+R 6809D5DA box-box (11)-boxAvatar.lav
+R EBDD039C box-box (12)-boxAvatar.lav
+R 230C96CA box-box (13)-boxAvatar.lav
+R CA5BACB4 box-box (2)-boxAvatar.lav
+R 0AE38B21 box-box (3)-boxAvatar.lav
+R 4814778B box-box (4)-boxAvatar.lav
+R BCC74D3E box-box (5)-boxAvatar.lav
+R EABC40C4 box-box (6)-boxAvatar.lav
+R 76660D40 box-box (7)-boxAvatar.lav
+R DE04042B box-box (8)-boxAvatar.lav
+R E37E0EA6 box-box (9)-boxAvatar.lav
+R 55838BF1 box-box-boxAvatar.lav
+R C73AA2FC box-Box001.lm
+R 8AB27850 bucket-bucket (1)-bucketAvatar.lav
+R 0C1F4CB6 bucket-bucket.lm
+R 3EB856D0 car1-car.lm
+R 67A85C2B car1-car1 (1)-car1Avatar.lav
+R E29AE7DC car2-car2.lm
+R D54ED601 car3-car3.lm
+R 8A575401 halo-halo (1)-haloAvatar.lav
+R 6656E032 halo-halo (10)-haloAvatar.lav
+R BC55F934 halo-halo (11)-haloAvatar.lav
+R A2D4A4D4 halo-halo (2)-haloAvatar.lav
+R FAE32EF5 halo-halo (3)-haloAvatar.lav
+R 9458A4C3 halo-halo (4)-haloAvatar.lav
+R 09C9329F halo-halo (5)-haloAvatar.lav
+R 6B4507F3 halo-halo (6)-haloAvatar.lav
+R 8306477E halo-halo (7)-haloAvatar.lav
+R CFAAAE5D halo-halo (8)-haloAvatar.lav
+R 906C9E60 halo-halo (9)-haloAvatar.lav
+R 5B0F7F18 halo-halo-haloAvatar.lav
+R B8F38B85 halo-对象016.lm
+R 651BE75E shelf-shelf (1)-shelfAvatar.lav
+R DAA34072 shelf-shelf.lm
+R 20FEC5F5 truck-body.lm
+R 1BAF90E0 truck-head.lm
+R 843E70C8 tyre-tyre (1)-tyreAvatar.lav
+R 3491AD77 tyre-tyre (10)-tyreAvatar.lav
+R 8344D270 tyre-tyre (11)-tyreAvatar.lav
+R C3571BB5 tyre-tyre (12)-tyreAvatar.lav
+R A81E0715 tyre-tyre (13)-tyreAvatar.lav
+R CF2ABA67 tyre-tyre (14)-tyreAvatar.lav
+R 723FDA97 tyre-tyre (15)-tyreAvatar.lav
+R EBA52DEB tyre-tyre (16)-tyreAvatar.lav
+R 1ED959D2 tyre-tyre (17)-tyreAvatar.lav
+R 52D5D325 tyre-tyre (3)-tyreAvatar.lav
+R 1EBF5619 tyre-tyre (4)-tyreAvatar.lav
+R 81D988D8 tyre-tyre (5)-tyreAvatar.lav
+R F35901C4 tyre-tyre (7)-tyreAvatar.lav
+R 6C89A90A tyre-tyre (8)-tyreAvatar.lav
+R D5813366 tyre-tyre (9)-tyreAvatar.lav
+R A2E912C6 tyre-tyre-tyreAvatar.lav
+R 954FF314 tyre-tyre.lm
+R 6BDC4905 wall-wall (1)-wallAvatar.lav
+R 95C1AEC1 wall-wall (10)-wallAvatar.lav
+R 64E17740 wall-wall (11)-wallAvatar.lav
+R AE5F5C04 wall-wall (12)-wallAvatar.lav
+R C30D6B99 wall-wall (13)-wallAvatar.lav
+R 5AE88DC8 wall-wall (14)-wallAvatar.lav
+R 07BC6E7F wall-wall (15)-wallAvatar.lav
+R 7F251C54 wall-wall (16)-wallAvatar.lav
+R 70C5B7BD wall-wall (17)-wallAvatar.lav
+R 89771AEE wall-wall (18)-wallAvatar.lav
+R 8501F8F9 wall-wall (19)-wallAvatar.lav
+R 95B03AA3 wall-wall (2)-wallAvatar.lav
+R CBB8A20F wall-wall (20)-wallAvatar.lav
+R E11C5F96 wall-wall (3)-wallAvatar.lav
+R 7A969FE3 wall-wall (4)-wallAvatar.lav
+R F60FFAD4 wall-wall (5)-wallAvatar.lav
+R EDE46150 wall-wall (6)-wallAvatar.lav
+R 2728BD0A wall-wall (7)-wallAvatar.lav
+R 8BB678C3 wall-wall (8)-wallAvatar.lav
+R 3D49D36E wall-wall (9)-wallAvatar.lav
+R 8CDA2DB6 wall-wall-wallAvatar.lav
+R 3FF7B2AE wall-wall.lm
+D 3dScene/Assets/texture
+P AAC02461 t0200.png
+P 70F0AC14 t0201.png
+P 0DEBB18C t0203.png
+P 3B403461 t0210.png
+P 0849A831 t0212.png
+P 627197D4 t0214.png
+P 05F564C8 t0225.png
+P 4A885D00 t0291.png
+P D3CADDCF t0297.png
